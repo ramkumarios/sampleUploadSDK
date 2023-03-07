@@ -1,0 +1,20 @@
+"/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/Alamofire/Source/ResponseSerialization.swift":
+  object: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ResponseSerialization.o"
+  swift-dependencies: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ResponseSerialization.swiftdeps"
+  dependencies: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ResponseSerialization.d"
+  diagnostics: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ResponseSerialization.dia"
+"/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/Alamofire/Source/ServerTrustPolicy.swift":
+  diagnostics: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ServerTrustPolicy.dia"
+  dependencies: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ServerTrustPolicy.d"
+  object: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ServerTrustPolicy.o"
+  swift-dependencies: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ServerTrustPolicy.swiftdeps"
+"/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/Alamofire/Source/Result.swift":
+  diagnostics: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Result.dia"
+  object: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Result.o"
+  swift-dependencies: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Result.swiftdeps"
+  dependencies: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Result.d"
+"/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/Alamofire/Source/SessionDelegate.swift":
+  diagnostics: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/SessionDelegate.dia"
+  swift-dependencies: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/SessionDelegate.swiftdeps"
+  dependencies: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/SessionDelegate.d"
+  object: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/SessionDelegate.o"

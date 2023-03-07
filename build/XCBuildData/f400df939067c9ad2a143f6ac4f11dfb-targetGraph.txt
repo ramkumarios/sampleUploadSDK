@@ -1,0 +1,13 @@
+Target dependency graph (5 targets)
+Alamofire in Pods, no dependencies
+SwiftyJSON in Pods, no dependencies
+Pods-NewFramwrk6Mar in Pods, depends on:
+Alamofire in Pods (explicit)
+SwiftyJSON in Pods (explicit)
+NewFramwrk6Mar in NewFramwrk6Mar, depends on:
+Pods-NewFramwrk6Mar in Pods (implicit dependency via file 'Pods_NewFramwrk6Mar.framework' in build phase 'Link Binary')
+Alamofire in Pods (implicit dependency via file 'Alamofire.framework' in build phase 'Link Binary')
+SwiftyJSON in Pods (implicit dependency via file 'SwiftyJSON.framework' in build phase 'Link Binary')
+NewPrjct6Mar in NewPrjct6Mar, depends on:
+Pods-NewFramwrk6Mar in Pods (implicit dependency via file 'Pods_NewFramwrk6Mar.framework' in build phase 'Link Binary')
+NewFramwrk6Mar in NewFramwrk6Mar (implicit dependency via file 'NewFramwrk6Mar.framework' in build phase 'Link Binary')

@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "d792665010d72a767b98b21cefa2459566661da3d5b703f6dcad0b4df87ff0ae"
+build_start_time: [1678106503, 848014831]
+build_end_time: [1678106511, 508844852]
+inputs:
+  "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/Alamofire/Source/AFError.swift": [1678092654, 49001216]
+  "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/Alamofire/Source/Alamofire.swift": [1678092654, 51905632]
+  "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1678092654, 46572208]
+  "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/Alamofire/Source/MultipartFormData.swift": [1678092654, 44430255]
+  "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1678092654, 45093536]
+  "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/Alamofire/Source/Notifications.swift": [1678092654, 50146341]
+  "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/Alamofire/Source/ParameterEncoding.swift": [1678092654, 48070192]
+  "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/Alamofire/Source/Request.swift": [1678092654, 53136348]
+  "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/Alamofire/Source/Response.swift": [1678092654, 50977706]
+  "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/Alamofire/Source/ResponseSerialization.swift": [1678092654, 55262327]
+  "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/Alamofire/Source/Result.swift": [1678092654, 47102689]
+  "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1678092654, 55920362]
+  "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/Alamofire/Source/SessionDelegate.swift": [1678092654, 56926250]
+  "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/Alamofire/Source/SessionManager.swift": [1678092654, 54334640]
+  "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/Alamofire/Source/TaskDelegate.swift": [1678092654, 43601036]
+  "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/Alamofire/Source/Timeline.swift": [1678092654, 45951604]
+  "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/Alamofire/Source/Validation.swift": [1678092654, 49595117]

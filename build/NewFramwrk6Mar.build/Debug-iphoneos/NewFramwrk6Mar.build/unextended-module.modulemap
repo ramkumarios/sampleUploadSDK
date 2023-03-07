@@ -1,0 +1,10 @@
+framework module NewFramwrk6Mar {
+  umbrella header "NewFramwrk6Mar.h"
+
+  export *
+  module * { export * }
+}
+
+module NewFramwrk6Mar.__Swift {
+  exclude header "NewFramwrk6Mar-Swift.h"
+}

@@ -1,0 +1,11 @@
+framework module NewFramwrk6Mar {
+  umbrella header "NewFramwrk6Mar.h"
+
+  export *
+  module * { export * }
+}
+
+module NewFramwrk6Mar.Swift {
+  header "NewFramwrk6Mar-Swift.h"
+  requires objc
+}

@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "d60ab406c77d210771e6ace54f0e32ab7e2bc767d12ad8c1c45f38b2eeba799f"
+build_start_time: [1678106503, 834732055]
+build_end_time: [1678106509, 383991956]
+inputs:
+  "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/SwiftyJSON/Source/SwiftyJSON/SwiftyJSON.swift": [1678092654, 64055919]

@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "bc62cba74e8a2bf1adaa6544edba9552dd261866aeb48a77817900055ff731f8"
+build_start_time: [1678106511, 620462894]
+build_end_time: [1678106511, 669527053]
+inputs:
+  "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/NewFramwrk6Mar/LoginModel.swift": !private [1678097475, 96046447]
+  "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/NewFramwrk6Mar/LoginViewController.swift": !private [1678097138, 129160404]
+  "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/NewFramwrk6Mar/LoginViewModel.swift": !private [1678097475, 31266212]
+  "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/NewFramwrk6Mar/Service.swift": !private [1678097475, 118721485]

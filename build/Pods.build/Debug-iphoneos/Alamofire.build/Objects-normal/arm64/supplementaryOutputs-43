@@ -1,0 +1,25 @@
+"/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/Alamofire/Source/MultipartFormData.swift":
+  swift-dependencies: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartFormData.swiftdeps"
+  object: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartFormData.o"
+  dependencies: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartFormData.d"
+  diagnostics: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartFormData.dia"
+"/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/Alamofire/Source/NetworkReachabilityManager.swift":
+  object: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/NetworkReachabilityManager.o"
+  diagnostics: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/NetworkReachabilityManager.dia"
+  dependencies: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/NetworkReachabilityManager.d"
+  swift-dependencies: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/NetworkReachabilityManager.swiftdeps"
+"/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/Alamofire/Source/AFError.swift":
+  object: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AFError.o"
+  dependencies: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AFError.d"
+  swift-dependencies: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AFError.swiftdeps"
+  diagnostics: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AFError.dia"
+"/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift":
+  object: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.o"
+  diagnostics: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.dia"
+  swift-dependencies: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.swiftdeps"
+  dependencies: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.d"
+"/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/Pods/Alamofire/Source/Alamofire.swift":
+  swift-dependencies: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Alamofire.swiftdeps"
+  object: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Alamofire.o"
+  diagnostics: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Alamofire.dia"
+  dependencies: "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewFramwrk6Mar/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Alamofire.d"

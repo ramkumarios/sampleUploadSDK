@@ -1,0 +1,2115 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "NewFramwrk6Mar",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "LoginViewController",
+        "printedName": "LoginViewController",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "signLabel",
+            "printedName": "signLabel",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WeakStorage",
+                "printedName": "UIKit.UILabel?"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@NewFramwrk6Mar@objc(cs)LoginViewController(py)signLabel",
+            "mangledName": "$s14NewFramwrk6Mar19LoginViewControllerC9signLabelSo7UILabelCSgvp",
+            "moduleName": "NewFramwrk6Mar",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Custom",
+              "HasStorage",
+              "ReferenceOwnership",
+              "IBOutlet",
+              "ObjC"
+            ],
+            "ownership": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "UIKit.UILabel?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UILabel",
+                        "printedName": "UIKit.UILabel",
+                        "usr": "c:objc(cs)UILabel"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@NewFramwrk6Mar@objc(cs)LoginViewController(im)signLabel",
+                "mangledName": "$s14NewFramwrk6Mar19LoginViewControllerC9signLabelSo7UILabelCSgvg",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "UIKit.UILabel?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UILabel",
+                        "printedName": "UIKit.UILabel",
+                        "usr": "c:objc(cs)UILabel"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@NewFramwrk6Mar@objc(cs)LoginViewController(im)setSignLabel:",
+                "mangledName": "$s14NewFramwrk6Mar19LoginViewControllerC9signLabelSo7UILabelCSgvs",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar19LoginViewControllerC9signLabelSo7UILabelCSgvM",
+                "mangledName": "$s14NewFramwrk6Mar19LoginViewControllerC9signLabelSo7UILabelCSgvM",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "signInTextField",
+            "printedName": "signInTextField",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WeakStorage",
+                "printedName": "UIKit.UITextField?"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@NewFramwrk6Mar@objc(cs)LoginViewController(py)signInTextField",
+            "mangledName": "$s14NewFramwrk6Mar19LoginViewControllerC15signInTextFieldSo06UITextJ0CSgvp",
+            "moduleName": "NewFramwrk6Mar",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Custom",
+              "HasStorage",
+              "ReferenceOwnership",
+              "IBOutlet",
+              "ObjC"
+            ],
+            "ownership": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "UIKit.UITextField?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UITextField",
+                        "printedName": "UIKit.UITextField",
+                        "usr": "c:objc(cs)UITextField"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@NewFramwrk6Mar@objc(cs)LoginViewController(im)signInTextField",
+                "mangledName": "$s14NewFramwrk6Mar19LoginViewControllerC15signInTextFieldSo06UITextJ0CSgvg",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "UIKit.UITextField?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UITextField",
+                        "printedName": "UIKit.UITextField",
+                        "usr": "c:objc(cs)UITextField"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@NewFramwrk6Mar@objc(cs)LoginViewController(im)setSignInTextField:",
+                "mangledName": "$s14NewFramwrk6Mar19LoginViewControllerC15signInTextFieldSo06UITextJ0CSgvs",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar19LoginViewControllerC15signInTextFieldSo06UITextJ0CSgvM",
+                "mangledName": "$s14NewFramwrk6Mar19LoginViewControllerC15signInTextFieldSo06UITextJ0CSgvM",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "loginVM",
+            "printedName": "loginVM",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "LoginViewModel",
+                "printedName": "NewFramwrk6Mar.LoginViewModel",
+                "usr": "s:14NewFramwrk6Mar14LoginViewModelC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14NewFramwrk6Mar19LoginViewControllerC7loginVMAA0dE5ModelCvp",
+            "mangledName": "$s14NewFramwrk6Mar19LoginViewControllerC7loginVMAA0dE5ModelCvp",
+            "moduleName": "NewFramwrk6Mar",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "LoginViewModel",
+                    "printedName": "NewFramwrk6Mar.LoginViewModel",
+                    "usr": "s:14NewFramwrk6Mar14LoginViewModelC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar19LoginViewControllerC7loginVMAA0dE5ModelCvg",
+                "mangledName": "$s14NewFramwrk6Mar19LoginViewControllerC7loginVMAA0dE5ModelCvg",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "LoginViewModel",
+                    "printedName": "NewFramwrk6Mar.LoginViewModel",
+                    "usr": "s:14NewFramwrk6Mar14LoginViewModelC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar19LoginViewControllerC7loginVMAA0dE5ModelCvs",
+                "mangledName": "$s14NewFramwrk6Mar19LoginViewControllerC7loginVMAA0dE5ModelCvs",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar19LoginViewControllerC7loginVMAA0dE5ModelCvM",
+                "mangledName": "$s14NewFramwrk6Mar19LoginViewControllerC7loginVMAA0dE5ModelCvM",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@NewFramwrk6Mar@objc(cs)LoginViewController(im)viewDidLoad",
+            "mangledName": "$s14NewFramwrk6Mar19LoginViewControllerC11viewDidLoadyyF",
+            "moduleName": "NewFramwrk6Mar",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "LoginViewController",
+                "printedName": "NewFramwrk6Mar.LoginViewController",
+                "usr": "c:@M@NewFramwrk6Mar@objc(cs)LoginViewController"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@NewFramwrk6Mar@objc(cs)LoginViewController(im)init",
+            "mangledName": "$s14NewFramwrk6Mar19LoginViewControllerCACycfc",
+            "moduleName": "NewFramwrk6Mar",
+            "overriding": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "NewFramwrk6Mar.LoginViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "LoginViewController",
+                    "printedName": "NewFramwrk6Mar.LoginViewController",
+                    "usr": "c:@M@NewFramwrk6Mar@objc(cs)LoginViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@NewFramwrk6Mar@objc(cs)LoginViewController(im)initWithCoder:",
+            "mangledName": "$s14NewFramwrk6Mar19LoginViewControllerC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "NewFramwrk6Mar",
+            "overriding": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "loginAPICall",
+            "printedName": "loginAPICall()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14NewFramwrk6Mar19LoginViewControllerC12loginAPICallyyF",
+            "mangledName": "$s14NewFramwrk6Mar19LoginViewControllerC12loginAPICallyyF",
+            "moduleName": "NewFramwrk6Mar",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "signInButton_Tapped",
+            "printedName": "signInButton_Tapped(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIButton",
+                "printedName": "UIKit.UIButton",
+                "usr": "c:objc(cs)UIButton"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@NewFramwrk6Mar@objc(cs)LoginViewController(im)signInButton_Tapped:",
+            "mangledName": "$s14NewFramwrk6Mar19LoginViewControllerC19signInButton_TappedyySo8UIButtonCF",
+            "moduleName": "NewFramwrk6Mar",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom",
+              "IBAction",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "LoginViewController",
+                "printedName": "NewFramwrk6Mar.LoginViewController",
+                "usr": "c:@M@NewFramwrk6Mar@objc(cs)LoginViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@NewFramwrk6Mar@objc(cs)LoginViewController(im)initWithNibName:bundle:",
+            "mangledName": "$s14NewFramwrk6Mar19LoginViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "NewFramwrk6Mar",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@NewFramwrk6Mar@objc(cs)LoginViewController",
+        "mangledName": "$s14NewFramwrk6Mar19LoginViewControllerC",
+        "moduleName": "NewFramwrk6Mar",
+        "isOpen": true,
+        "declAttributes": [
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIViewController",
+        "hasMissingDesignatedInitializers": true,
+        "superclassNames": [
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NewFramwrk6Mar"
+      },
+      {
+        "kind": "Import",
+        "name": "Alamofire",
+        "printedName": "Alamofire",
+        "declKind": "Import",
+        "moduleName": "NewFramwrk6Mar"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftyJSON",
+        "printedName": "SwiftyJSON",
+        "declKind": "Import",
+        "moduleName": "NewFramwrk6Mar"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Service",
+        "printedName": "Service",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "AFManager",
+            "printedName": "AFManager",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SessionManager",
+                "printedName": "Alamofire.SessionManager",
+                "usr": "s:9Alamofire14SessionManagerC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14NewFramwrk6Mar7ServiceC9AFManager9Alamofire14SessionManagerCvp",
+            "mangledName": "$s14NewFramwrk6Mar7ServiceC9AFManager9Alamofire14SessionManagerCvp",
+            "moduleName": "NewFramwrk6Mar",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SessionManager",
+                    "printedName": "Alamofire.SessionManager",
+                    "usr": "s:9Alamofire14SessionManagerC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar7ServiceC9AFManager9Alamofire14SessionManagerCvg",
+                "mangledName": "$s14NewFramwrk6Mar7ServiceC9AFManager9Alamofire14SessionManagerCvg",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SessionManager",
+                    "printedName": "Alamofire.SessionManager",
+                    "usr": "s:9Alamofire14SessionManagerC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar7ServiceC9AFManager9Alamofire14SessionManagerCvs",
+                "mangledName": "$s14NewFramwrk6Mar7ServiceC9AFManager9Alamofire14SessionManagerCvs",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar7ServiceC9AFManager9Alamofire14SessionManagerCvM",
+                "mangledName": "$s14NewFramwrk6Mar7ServiceC9AFManager9Alamofire14SessionManagerCvM",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Service",
+                "printedName": "NewFramwrk6Mar.Service",
+                "usr": "s:14NewFramwrk6Mar7ServiceC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14NewFramwrk6Mar7ServiceC6sharedACvpZ",
+            "mangledName": "$s14NewFramwrk6Mar7ServiceC6sharedACvpZ",
+            "moduleName": "NewFramwrk6Mar",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Service",
+                    "printedName": "NewFramwrk6Mar.Service",
+                    "usr": "s:14NewFramwrk6Mar7ServiceC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar7ServiceC6sharedACvgZ",
+                "mangledName": "$s14NewFramwrk6Mar7ServiceC6sharedACvgZ",
+                "moduleName": "NewFramwrk6Mar",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent",
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "TypeDecl",
+            "name": "HTTPError",
+            "printedName": "HTTPError",
+            "children": [
+              {
+                "kind": "Var",
+                "name": "invalidURL",
+                "printedName": "invalidURL",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(NewFramwrk6Mar.Service.HTTPError.Type) -> NewFramwrk6Mar.Service.HTTPError",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "HTTPError",
+                        "printedName": "NewFramwrk6Mar.Service.HTTPError",
+                        "usr": "s:14NewFramwrk6Mar7ServiceC9HTTPErrorO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "NewFramwrk6Mar.Service.HTTPError.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "HTTPError",
+                            "printedName": "NewFramwrk6Mar.Service.HTTPError",
+                            "usr": "s:14NewFramwrk6Mar7ServiceC9HTTPErrorO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:14NewFramwrk6Mar7ServiceC9HTTPErrorO10invalidURLyA2EmF",
+                "mangledName": "$s14NewFramwrk6Mar7ServiceC9HTTPErrorO10invalidURLyA2EmF",
+                "moduleName": "NewFramwrk6Mar",
+                "fixedbinaryorder": 0
+              },
+              {
+                "kind": "Var",
+                "name": "invalidResponse",
+                "printedName": "invalidResponse",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(NewFramwrk6Mar.Service.HTTPError.Type) -> (Foundation.Data?, Foundation.URLResponse?) -> NewFramwrk6Mar.Service.HTTPError",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(Foundation.Data?, Foundation.URLResponse?) -> NewFramwrk6Mar.Service.HTTPError",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "HTTPError",
+                            "printedName": "NewFramwrk6Mar.Service.HTTPError",
+                            "usr": "s:14NewFramwrk6Mar7ServiceC9HTTPErrorO"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Tuple",
+                            "printedName": "(Foundation.Data?, Foundation.URLResponse?)",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "Optional",
+                                "printedName": "Foundation.Data?",
+                                "children": [
+                                  {
+                                    "kind": "TypeNominal",
+                                    "name": "Data",
+                                    "printedName": "Foundation.Data",
+                                    "usr": "s:10Foundation4DataV"
+                                  }
+                                ],
+                                "usr": "s:Sq"
+                              },
+                              {
+                                "kind": "TypeNominal",
+                                "name": "Optional",
+                                "printedName": "Foundation.URLResponse?",
+                                "children": [
+                                  {
+                                    "kind": "TypeNominal",
+                                    "name": "URLResponse",
+                                    "printedName": "Foundation.URLResponse",
+                                    "usr": "c:objc(cs)NSURLResponse"
+                                  }
+                                ],
+                                "usr": "s:Sq"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "NewFramwrk6Mar.Service.HTTPError.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "HTTPError",
+                            "printedName": "NewFramwrk6Mar.Service.HTTPError",
+                            "usr": "s:14NewFramwrk6Mar7ServiceC9HTTPErrorO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:14NewFramwrk6Mar7ServiceC9HTTPErrorO15invalidResponseyAE10Foundation4DataVSg_So13NSURLResponseCSgtcAEmF",
+                "mangledName": "$s14NewFramwrk6Mar7ServiceC9HTTPErrorO15invalidResponseyAE10Foundation4DataVSg_So13NSURLResponseCSgtcAEmF",
+                "moduleName": "NewFramwrk6Mar",
+                "fixedbinaryorder": 1
+              }
+            ],
+            "declKind": "Enum",
+            "usr": "s:14NewFramwrk6Mar7ServiceC9HTTPErrorO",
+            "mangledName": "$s14NewFramwrk6Mar7ServiceC9HTTPErrorO",
+            "moduleName": "NewFramwrk6Mar",
+            "isEnumExhaustive": true,
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Error",
+                "printedName": "Error",
+                "usr": "s:s5ErrorP",
+                "mangledName": "$ss5ErrorP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Sendable",
+                "printedName": "Sendable",
+                "usr": "s:s8SendableP",
+                "mangledName": "$ss8SendableP"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "post",
+            "printedName": "post(urlString:param:completionBlock:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:SD"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<Foundation.Data, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Foundation.Data, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Data",
+                        "printedName": "Foundation.Data",
+                        "usr": "s:10Foundation4DataV"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14NewFramwrk6Mar7ServiceC4post9urlString5param15completionBlockySS_SDySSypGys6ResultOy10Foundation4DataVs5Error_pGctF",
+            "mangledName": "$s14NewFramwrk6Mar7ServiceC4post9urlString5param15completionBlockySS_SDySSypGys6ResultOy10Foundation4DataVs5Error_pGctF",
+            "moduleName": "NewFramwrk6Mar",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "get",
+            "printedName": "get(urlString:completionBlock:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<Foundation.Data, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Foundation.Data, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Data",
+                        "printedName": "Foundation.Data",
+                        "usr": "s:10Foundation4DataV"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14NewFramwrk6Mar7ServiceC3get9urlString15completionBlockySS_ys6ResultOy10Foundation4DataVs5Error_pGctF",
+            "mangledName": "$s14NewFramwrk6Mar7ServiceC3get9urlString15completionBlockySS_ys6ResultOy10Foundation4DataVs5Error_pGctF",
+            "moduleName": "NewFramwrk6Mar",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "stopActivityIndicator",
+            "printedName": "stopActivityIndicator()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14NewFramwrk6Mar7ServiceC21stopActivityIndicatoryyF",
+            "mangledName": "$s14NewFramwrk6Mar7ServiceC21stopActivityIndicatoryyF",
+            "moduleName": "NewFramwrk6Mar",
+            "isOpen": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Service",
+                "printedName": "NewFramwrk6Mar.Service",
+                "usr": "s:14NewFramwrk6Mar7ServiceC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:14NewFramwrk6Mar7ServiceCACycfc",
+            "mangledName": "$s14NewFramwrk6Mar7ServiceCACycfc",
+            "moduleName": "NewFramwrk6Mar",
+            "implicit": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:14NewFramwrk6Mar7ServiceC",
+        "mangledName": "$s14NewFramwrk6Mar7ServiceC",
+        "moduleName": "NewFramwrk6Mar",
+        "isOpen": true,
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NewFramwrk6Mar",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftyJSON",
+        "printedName": "SwiftyJSON",
+        "declKind": "Import",
+        "moduleName": "NewFramwrk6Mar"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "LoginDataModel",
+        "printedName": "LoginDataModel",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "companyId",
+            "printedName": "companyId",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14NewFramwrk6Mar14LoginDataModelC9companyIdSiSgvp",
+            "mangledName": "$s14NewFramwrk6Mar14LoginDataModelC9companyIdSiSgvp",
+            "moduleName": "NewFramwrk6Mar",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar14LoginDataModelC9companyIdSiSgvg",
+                "mangledName": "$s14NewFramwrk6Mar14LoginDataModelC9companyIdSiSgvg",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar14LoginDataModelC9companyIdSiSgvs",
+                "mangledName": "$s14NewFramwrk6Mar14LoginDataModelC9companyIdSiSgvs",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar14LoginDataModelC9companyIdSiSgvM",
+                "mangledName": "$s14NewFramwrk6Mar14LoginDataModelC9companyIdSiSgvM",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "email",
+            "printedName": "email",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14NewFramwrk6Mar14LoginDataModelC5emailSSSgvp",
+            "mangledName": "$s14NewFramwrk6Mar14LoginDataModelC5emailSSSgvp",
+            "moduleName": "NewFramwrk6Mar",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar14LoginDataModelC5emailSSSgvg",
+                "mangledName": "$s14NewFramwrk6Mar14LoginDataModelC5emailSSSgvg",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar14LoginDataModelC5emailSSSgvs",
+                "mangledName": "$s14NewFramwrk6Mar14LoginDataModelC5emailSSSgvs",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar14LoginDataModelC5emailSSSgvM",
+                "mangledName": "$s14NewFramwrk6Mar14LoginDataModelC5emailSSSgvM",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "name",
+            "printedName": "name",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14NewFramwrk6Mar14LoginDataModelC4nameSSSgvp",
+            "mangledName": "$s14NewFramwrk6Mar14LoginDataModelC4nameSSSgvp",
+            "moduleName": "NewFramwrk6Mar",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar14LoginDataModelC4nameSSSgvg",
+                "mangledName": "$s14NewFramwrk6Mar14LoginDataModelC4nameSSSgvg",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar14LoginDataModelC4nameSSSgvs",
+                "mangledName": "$s14NewFramwrk6Mar14LoginDataModelC4nameSSSgvs",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar14LoginDataModelC4nameSSSgvM",
+                "mangledName": "$s14NewFramwrk6Mar14LoginDataModelC4nameSSSgvM",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "status",
+            "printedName": "status",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14NewFramwrk6Mar14LoginDataModelC6statusSSSgvp",
+            "mangledName": "$s14NewFramwrk6Mar14LoginDataModelC6statusSSSgvp",
+            "moduleName": "NewFramwrk6Mar",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar14LoginDataModelC6statusSSSgvg",
+                "mangledName": "$s14NewFramwrk6Mar14LoginDataModelC6statusSSSgvg",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar14LoginDataModelC6statusSSSgvs",
+                "mangledName": "$s14NewFramwrk6Mar14LoginDataModelC6statusSSSgvs",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar14LoginDataModelC6statusSSSgvM",
+                "mangledName": "$s14NewFramwrk6Mar14LoginDataModelC6statusSSSgvM",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "token",
+            "printedName": "token",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14NewFramwrk6Mar14LoginDataModelC5tokenSSSgvp",
+            "mangledName": "$s14NewFramwrk6Mar14LoginDataModelC5tokenSSSgvp",
+            "moduleName": "NewFramwrk6Mar",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar14LoginDataModelC5tokenSSSgvg",
+                "mangledName": "$s14NewFramwrk6Mar14LoginDataModelC5tokenSSSgvg",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar14LoginDataModelC5tokenSSSgvs",
+                "mangledName": "$s14NewFramwrk6Mar14LoginDataModelC5tokenSSSgvs",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar14LoginDataModelC5tokenSSSgvM",
+                "mangledName": "$s14NewFramwrk6Mar14LoginDataModelC5tokenSSSgvM",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "userId",
+            "printedName": "userId",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14NewFramwrk6Mar14LoginDataModelC6userIdSiSgvp",
+            "mangledName": "$s14NewFramwrk6Mar14LoginDataModelC6userIdSiSgvp",
+            "moduleName": "NewFramwrk6Mar",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar14LoginDataModelC6userIdSiSgvg",
+                "mangledName": "$s14NewFramwrk6Mar14LoginDataModelC6userIdSiSgvg",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar14LoginDataModelC6userIdSiSgvs",
+                "mangledName": "$s14NewFramwrk6Mar14LoginDataModelC6userIdSiSgvs",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar14LoginDataModelC6userIdSiSgvM",
+                "mangledName": "$s14NewFramwrk6Mar14LoginDataModelC6userIdSiSgvM",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(fromJson:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "LoginDataModel",
+                "printedName": "NewFramwrk6Mar.LoginDataModel",
+                "usr": "s:14NewFramwrk6Mar14LoginDataModelC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "SwiftyJSON.JSON?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "JSON",
+                    "printedName": "SwiftyJSON.JSON",
+                    "usr": "s:10SwiftyJSON0B0V"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:14NewFramwrk6Mar14LoginDataModelC8fromJsonAC10SwiftyJSON0J0VSg_tcfc",
+            "mangledName": "$s14NewFramwrk6Mar14LoginDataModelC8fromJsonAC10SwiftyJSON0J0VSg_tcfc",
+            "moduleName": "NewFramwrk6Mar",
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:14NewFramwrk6Mar14LoginDataModelC",
+        "mangledName": "$s14NewFramwrk6Mar14LoginDataModelC",
+        "moduleName": "NewFramwrk6Mar",
+        "isOpen": true,
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NewFramwrk6Mar",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftyJSON",
+        "printedName": "SwiftyJSON",
+        "declKind": "Import",
+        "moduleName": "NewFramwrk6Mar"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "LoginViewModel",
+        "printedName": "LoginViewModel",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(model:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "LoginViewModel",
+                "printedName": "NewFramwrk6Mar.LoginViewModel",
+                "usr": "s:14NewFramwrk6Mar14LoginViewModelC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "NewFramwrk6Mar.LoginDataModel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "LoginDataModel",
+                    "printedName": "NewFramwrk6Mar.LoginDataModel",
+                    "usr": "s:14NewFramwrk6Mar14LoginDataModelC"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:14NewFramwrk6Mar14LoginViewModelC5modelAcA0d4DataF0CSg_tcfc",
+            "mangledName": "$s14NewFramwrk6Mar14LoginViewModelC5modelAcA0d4DataF0CSg_tcfc",
+            "moduleName": "NewFramwrk6Mar",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "loginData",
+            "printedName": "loginData",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "NewFramwrk6Mar.LoginDataModel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "LoginDataModel",
+                    "printedName": "NewFramwrk6Mar.LoginDataModel",
+                    "usr": "s:14NewFramwrk6Mar14LoginDataModelC"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14NewFramwrk6Mar14LoginViewModelC9loginDataAA0dhF0CSgvp",
+            "mangledName": "$s14NewFramwrk6Mar14LoginViewModelC9loginDataAA0dhF0CSgvp",
+            "moduleName": "NewFramwrk6Mar",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "NewFramwrk6Mar.LoginDataModel?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "LoginDataModel",
+                        "printedName": "NewFramwrk6Mar.LoginDataModel",
+                        "usr": "s:14NewFramwrk6Mar14LoginDataModelC"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar14LoginViewModelC9loginDataAA0dhF0CSgvg",
+                "mangledName": "$s14NewFramwrk6Mar14LoginViewModelC9loginDataAA0dhF0CSgvg",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "NewFramwrk6Mar.LoginDataModel?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "LoginDataModel",
+                        "printedName": "NewFramwrk6Mar.LoginDataModel",
+                        "usr": "s:14NewFramwrk6Mar14LoginDataModelC"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar14LoginViewModelC9loginDataAA0dhF0CSgvs",
+                "mangledName": "$s14NewFramwrk6Mar14LoginViewModelC9loginDataAA0dhF0CSgvs",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NewFramwrk6Mar14LoginViewModelC9loginDataAA0dhF0CSgvM",
+                "mangledName": "$s14NewFramwrk6Mar14LoginViewModelC9loginDataAA0dhF0CSgvM",
+                "moduleName": "NewFramwrk6Mar",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "loginApiCall",
+            "printedName": "loginApiCall(parameter:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:SD"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<NewFramwrk6Mar.LoginDataModel, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<NewFramwrk6Mar.LoginDataModel, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "LoginDataModel",
+                        "printedName": "NewFramwrk6Mar.LoginDataModel",
+                        "usr": "s:14NewFramwrk6Mar14LoginDataModelC"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14NewFramwrk6Mar14LoginViewModelC12loginApiCall9parameter10completionySDyS2SG_ys6ResultOyAA0d4DataF0Cs5Error_pGctF",
+            "mangledName": "$s14NewFramwrk6Mar14LoginViewModelC12loginApiCall9parameter10completionySDyS2SG_ys6ResultOyAA0d4DataF0Cs5Error_pGctF",
+            "moduleName": "NewFramwrk6Mar",
+            "isOpen": true,
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:14NewFramwrk6Mar14LoginViewModelC",
+        "mangledName": "$s14NewFramwrk6Mar14LoginViewModelC",
+        "moduleName": "NewFramwrk6Mar",
+        "isOpen": true,
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/tvpc000013\/Desktop\/Ajith Frnd Mar 6 Backup\/NewFramwrk6Mar\/NewFramwrk6Mar\/LoginViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 125,
+      "length": 19,
+      "value": "\"NewFramwrk6Mar.LoginViewController\""
+    }
+  ]
+}
